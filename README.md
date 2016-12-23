@@ -11,7 +11,7 @@ cd sharkFishDetector
 ```
 
 Step 1
-Put fish and shark photos into /tmp/fish
+Put fish and shark photos into /tmp/fish/fish_photos
 
 ```
 bash scripts/01_get_data.sh
